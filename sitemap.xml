@@ -2,9 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://www.gailholst-warhaft.com/poetry/</loc>
+    
+    <lastmod>2019-01-03T20:01:32.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://www.gailholst-warhaft.com/recent/</loc>
     
-    <lastmod>2019-01-03T20:00:13.000Z</lastmod>
+    <lastmod>2019-01-03T20:01:31.000Z</lastmod>
     
   </url>
   
@@ -12,13 +19,6 @@
     <loc>http://www.gailholst-warhaft.com/poetry-and-prose/</loc>
     
     <lastmod>2019-01-03T19:45:32.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://www.gailholst-warhaft.com/poetry/</loc>
-    
-    <lastmod>2019-01-03T19:44:40.000Z</lastmod>
     
   </url>
   
