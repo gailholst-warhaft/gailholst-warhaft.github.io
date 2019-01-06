@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://www.gailholst-warhaft.com/articles/</loc>
+    
+    <lastmod>2019-01-06T03:48:28.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://www.gailholst-warhaft.com/about/</loc>
+    
+    <lastmod>2019-01-06T03:48:15.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://www.gailholst-warhaft.com/poetry/</loc>
     
     <lastmod>2019-01-03T20:01:32.000Z</lastmod>
@@ -26,13 +40,6 @@
     <loc>http://www.gailholst-warhaft.com/events/</loc>
     
     <lastmod>2018-12-10T05:29:06.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://www.gailholst-warhaft.com/about/</loc>
-    
-    <lastmod>2018-11-19T19:08:14.000Z</lastmod>
     
   </url>
   
@@ -68,13 +75,6 @@
     <loc>http://www.gailholst-warhaft.com/greek-music/</loc>
     
     <lastmod>2018-11-19T18:42:50.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://www.gailholst-warhaft.com/articles/</loc>
-    
-    <lastmod>2018-11-17T20:46:59.000Z</lastmod>
     
   </url>
   
