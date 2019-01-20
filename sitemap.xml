@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://www.gailholst-warhaft.com/recent/</loc>
+    
+    <lastmod>2019-01-20T05:57:39.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://www.gailholst-warhaft.com/poetry/</loc>
+    
+    <lastmod>2019-01-09T18:50:48.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://www.gailholst-warhaft.com/articles/</loc>
     
     <lastmod>2019-01-06T03:48:28.000Z</lastmod>
@@ -12,20 +26,6 @@
     <loc>http://www.gailholst-warhaft.com/about/</loc>
     
     <lastmod>2019-01-06T03:48:15.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://www.gailholst-warhaft.com/poetry/</loc>
-    
-    <lastmod>2019-01-03T20:01:32.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://www.gailholst-warhaft.com/recent/</loc>
-    
-    <lastmod>2019-01-03T20:01:31.000Z</lastmod>
     
   </url>
   
