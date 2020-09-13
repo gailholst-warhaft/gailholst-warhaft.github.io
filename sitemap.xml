@@ -2,23 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://www.gailholst-warhaft.com/events/</loc>
+    <loc>http://www.gailholst-warhaft.com/recent/</loc>
     
-    <lastmod>2019-05-09T22:29:38.000Z</lastmod>
+    <lastmod>2020-09-13T16:18:54.413Z</lastmod>
     
   </url>
   
   <url>
     <loc>http://www.gailholst-warhaft.com/poetry/</loc>
     
-    <lastmod>2019-01-20T21:21:28.000Z</lastmod>
+    <lastmod>2020-09-13T16:10:32.048Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://www.gailholst-warhaft.com/recent/</loc>
+    <loc>http://www.gailholst-warhaft.com/poetry~/</loc>
     
-    <lastmod>2019-01-20T21:09:18.000Z</lastmod>
+    <lastmod>2020-09-13T15:49:52.481Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://www.gailholst-warhaft.com//404.html</loc>
+    
+    <lastmod>2019-05-09T22:43:04.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://www.gailholst-warhaft.com/events/</loc>
+    
+    <lastmod>2019-05-09T22:29:38.000Z</lastmod>
     
   </url>
   
@@ -96,13 +110,6 @@
     <loc>http://www.gailholst-warhaft.com/media/</loc>
     
     <lastmod>2017-02-01T18:24:51.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://www.gailholst-warhaft.com//404.html</loc>
-    
-    <lastmod>2016-12-28T05:38:56.000Z</lastmod>
     
   </url>
   
