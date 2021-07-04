@@ -2,23 +2,51 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://www.gailholst-warhaft.github.io/nisiotika-links/</loc>
+    <loc>http://www.gailholst-warhaft.github.io/recent/</loc>
     
-    <lastmod>2021-05-31T17:43:34.930Z</lastmod>
+    <lastmod>2021-07-04T10:24:55.012Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://www.gailholst-warhaft.github.io/recent/</loc>
+    <loc>http://www.gailholst-warhaft.github.io/events/</loc>
     
-    <lastmod>2021-05-31T17:32:07.271Z</lastmod>
+    <lastmod>2021-07-04T10:07:28.613Z</lastmod>
     
   </url>
   
   <url>
     <loc>http://www.gailholst-warhaft.github.io/books/</loc>
     
-    <lastmod>2021-05-31T15:22:29.633Z</lastmod>
+    <lastmod>2021-07-04T09:09:58.098Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://www.gailholst-warhaft.github.io/greek-music/</loc>
+    
+    <lastmod>2021-07-04T09:09:48.547Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://www.gailholst-warhaft.github.io/translation/</loc>
+    
+    <lastmod>2021-07-04T09:09:41.921Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://www.gailholst-warhaft.github.io/poetry-and-prose/</loc>
+    
+    <lastmod>2021-07-04T08:52:18.895Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://www.gailholst-warhaft.github.io/nisiotika-links/</loc>
+    
+    <lastmod>2021-05-31T17:43:34.930Z</lastmod>
     
   </url>
   
@@ -37,13 +65,6 @@
   </url>
   
   <url>
-    <loc>http://www.gailholst-warhaft.github.io/events/</loc>
-    
-    <lastmod>2019-05-09T22:29:38.000Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://www.gailholst-warhaft.github.io/articles/</loc>
     
     <lastmod>2019-01-06T03:48:28.000Z</lastmod>
@@ -54,20 +75,6 @@
     <loc>http://www.gailholst-warhaft.github.io/about/</loc>
     
     <lastmod>2019-01-06T03:48:15.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://www.gailholst-warhaft.github.io/poetry-and-prose/</loc>
-    
-    <lastmod>2019-01-03T19:45:32.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://www.gailholst-warhaft.github.io/translation/</loc>
-    
-    <lastmod>2018-11-19T19:01:44.000Z</lastmod>
     
   </url>
   
@@ -89,13 +96,6 @@
     <loc>http://www.gailholst-warhaft.github.io/grief-and-lament/</loc>
     
     <lastmod>2018-11-19T18:43:04.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://www.gailholst-warhaft.github.io/greek-music/</loc>
-    
-    <lastmod>2018-11-19T18:42:50.000Z</lastmod>
     
   </url>
   

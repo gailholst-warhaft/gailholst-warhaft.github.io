@@ -223,7 +223,7 @@ h3,
 h4,
 h5,
 h6 {
-  margin: 20px 0 15px;
+  margin: 5px 0 5px;
 }
 h1 {
   font-size: 24px;
@@ -1050,8 +1050,8 @@ pre .javascript .function {
   }
 }
 .site-nav-toggle button {
-  margin-top: 2px;
-  padding: 9px 10px;
+  margin-top: 4px;
+  padding: 5px 10px;
   background: transparent;
   border: none;
 }
@@ -1369,7 +1369,7 @@ pre .javascript .function {
   font-size: 16px;
 }
 .posts-expand .post-meta {
-  margin: 3px 0 60px 0;
+  margin: 3px 0 3px 0;
   color: #999;
   font-family: 'Lato', "PingFang SC", "Microsoft YaHei", sans-serif;
   font-size: 12px;
@@ -1679,7 +1679,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #3d6eff;
+  background: #c2fff2;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2823,6 +2823,7 @@ hr {
   }
 }
 .site-title {
+  padding-top: 40px;
   position: centre;
 }
 .post-comments-count {
@@ -2948,4 +2949,17 @@ body {
 }
 .post-toc .nav .active-current > a:hover {
   color: #000;
+}
+h1 {
+  margin: 30px 0px 0px 0px;
+}
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin: 20px 0px 20px 0px;
+}
+.posts-expand .post {
+  margin-top: 20px;
 }
