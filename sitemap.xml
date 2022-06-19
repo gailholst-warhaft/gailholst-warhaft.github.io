@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://www.gailholst-warhaft.github.io/contact/</loc>
+    
+    <lastmod>2022-06-19T17:43:02.719Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://www.gailholst-warhaft.github.io/books/</loc>
     
     <lastmod>2022-06-19T17:33:48.189Z</lastmod>
@@ -96,13 +103,6 @@
     <loc>http://www.gailholst-warhaft.github.io/grief-and-lament/</loc>
     
     <lastmod>2018-11-19T18:43:04.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://www.gailholst-warhaft.github.io/contact/</loc>
-    
-    <lastmod>2018-09-01T01:55:11.000Z</lastmod>
     
   </url>
   
