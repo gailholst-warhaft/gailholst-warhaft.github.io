@@ -2,16 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://www.gailholst-warhaft.github.io/books/</loc>
+    <loc>http://www.gailholst-warhaft.github.io/recent/</loc>
     
-    <lastmod>2022-06-19T16:38:37.066Z</lastmod>
+    <lastmod>2022-06-19T16:49:08.099Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://www.gailholst-warhaft.github.io/recent/</loc>
+    <loc>http://www.gailholst-warhaft.github.io/events/</loc>
     
-    <lastmod>2022-06-19T16:34:31.815Z</lastmod>
+    <lastmod>2022-06-19T16:48:14.788Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://www.gailholst-warhaft.github.io/books/</loc>
+    
+    <lastmod>2022-06-19T16:38:37.066Z</lastmod>
     
   </url>
   
@@ -33,13 +40,6 @@
     <loc>http://www.gailholst-warhaft.github.io/translation/</loc>
     
     <lastmod>2021-09-27T03:44:37.239Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://www.gailholst-warhaft.github.io/events/</loc>
-    
-    <lastmod>2021-07-04T10:07:28.613Z</lastmod>
     
   </url>
   
