@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://www.gailholst-warhaft.github.io/books/</loc>
+    
+    <lastmod>2022-06-19T17:33:48.189Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://www.gailholst-warhaft.github.io/about/</loc>
     
     <lastmod>2022-06-19T17:04:22.304Z</lastmod>
@@ -19,13 +26,6 @@
     <loc>http://www.gailholst-warhaft.github.io/recent/</loc>
     
     <lastmod>2022-06-19T16:51:59.777Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://www.gailholst-warhaft.github.io/books/</loc>
-    
-    <lastmod>2022-06-19T16:38:37.066Z</lastmod>
     
   </url>
   
