@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://www.gailholst-warhaft.github.io/articles/</loc>
+    
+    <lastmod>2023-05-19T17:02:19.998Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://www.gailholst-warhaft.github.io/greek-music/</loc>
     
     <lastmod>2023-05-19T16:32:29.593Z</lastmod>
@@ -75,13 +82,6 @@
     <loc>http://www.gailholst-warhaft.github.io//404.html</loc>
     
     <lastmod>2019-05-09T22:43:04.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://www.gailholst-warhaft.github.io/articles/</loc>
-    
-    <lastmod>2019-01-06T03:48:28.000Z</lastmod>
     
   </url>
   
