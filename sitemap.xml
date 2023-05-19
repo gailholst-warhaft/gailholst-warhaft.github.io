@@ -2,6 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://www.gailholst-warhaft.github.io/greek-music/</loc>
+    
+    <lastmod>2023-05-19T16:32:29.593Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://www.gailholst-warhaft.github.io/recent/</loc>
+    
+    <lastmod>2023-05-19T16:32:27.683Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://www.gailholst-warhaft.github.io/books/</loc>
+    
+    <lastmod>2023-05-19T16:32:25.427Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://www.gailholst-warhaft.github.io/about/</loc>
     
     <lastmod>2022-11-02T08:54:52.902Z</lastmod>
@@ -16,30 +37,9 @@
   </url>
   
   <url>
-    <loc>http://www.gailholst-warhaft.github.io/recent/</loc>
-    
-    <lastmod>2022-11-02T08:51:01.522Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://www.gailholst-warhaft.github.io/contact/</loc>
     
     <lastmod>2022-06-19T17:43:02.719Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://www.gailholst-warhaft.github.io/books/</loc>
-    
-    <lastmod>2022-06-19T17:33:48.189Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://www.gailholst-warhaft.github.io/greek-music/</loc>
-    
-    <lastmod>2022-06-19T16:33:17.188Z</lastmod>
     
   </url>
   
