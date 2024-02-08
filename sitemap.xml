@@ -2,16 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://www.gailholst-warhaft.github.io/events/</loc>
+    <loc>http://www.gailholst-warhaft.github.io/recent/</loc>
     
-    <lastmod>2023-11-05T07:14:56.976Z</lastmod>
+    <lastmod>2024-02-08T15:39:49.197Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://www.gailholst-warhaft.github.io/recent/</loc>
+    <loc>http://www.gailholst-warhaft.github.io/poetry/</loc>
     
-    <lastmod>2023-11-05T07:12:37.394Z</lastmod>
+    <lastmod>2024-02-08T15:39:30.432Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://www.gailholst-warhaft.github.io/greek-music/</loc>
+    
+    <lastmod>2024-02-08T15:38:09.503Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://www.gailholst-warhaft.github.io/events/</loc>
+    
+    <lastmod>2023-11-05T07:14:56.976Z</lastmod>
     
   </url>
   
@@ -26,13 +40,6 @@
     <loc>http://www.gailholst-warhaft.github.io/about/</loc>
     
     <lastmod>2023-05-19T17:06:29.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://www.gailholst-warhaft.github.io/greek-music/</loc>
-    
-    <lastmod>2023-05-19T16:32:29.593Z</lastmod>
     
   </url>
   
@@ -68,13 +75,6 @@
     <loc>http://www.gailholst-warhaft.github.io/nisiotika-links/</loc>
     
     <lastmod>2021-05-31T17:43:34.930Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://www.gailholst-warhaft.github.io/poetry/</loc>
-    
-    <lastmod>2020-09-13T16:10:32.048Z</lastmod>
     
   </url>
   
